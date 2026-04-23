@@ -2,7 +2,8 @@
 
 A working prototype built for the AI PM Assignment at Troopod. This tool allows users to input any **Ad Creative** and **Target URL**, instantly proxying the site and autonomously modifying its headings, subheadings, and Call-to-Actions (CTAs) based on Conversion Rate Optimization (CRO) principles—all while maintaining the original site's layout and styling.
 
-![Troopod Assignment UI Demo](https://via.placeholder.com/1200x600.png?text=AI+Personalized+Landing+Page) *(Replace with actual screenshot)*
+![Troopod Assignment UI Demo](<img width="1904" height="910" alt="image" src="https://github.com/user-attachments/assets/cb7eba9e-fa5b-46cd-ab43-48d74e73471d" />
+) *(Replace with actual screenshot)*
 
 ## ✨ Features
 
